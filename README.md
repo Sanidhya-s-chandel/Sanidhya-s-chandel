@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email:- sanidhyasinghchandel31@gmail.com/ Whatsapp:- 7697659102
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Introvert, Passionate and High-spirited.
 
 <!---
 Sanidhya-s-chandel/Sanidhya-s-chandel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
