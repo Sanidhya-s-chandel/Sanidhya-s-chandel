@@ -27,6 +27,12 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.linkedin.com/in/sanidhya-singh-chandel-594b5529b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <a href="https://leetcode.com/u/sanidhya_s_chandel" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=580000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  />
+  </a>
+  <a href="https://www.codechef.com/users/sanidhya3108" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=CodeChef&logo=CodeChef&label=&color=6E260E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codechef logo"  />
+  </a>
 </div>
 
 ###
